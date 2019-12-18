@@ -1,10 +1,10 @@
 {
-  "name": "acacha/admin-lte-template-laravel",
+  "name": "bcartfall/adminlte-laravel",
   "description": "AdminLTE template applied to Laravel Scaffolding",
   "license": "MIT",
   "type": "package",
   "keywords": ["bootstrap", "theme", "admin", "template", "administrator","admin-lte","adminlte", "laravel","acacha"],
-  "homepage": "https://github.com/acacha/adminlte-laravel",
+  "homepage": "https://github.com/bcartfall/adminlte-laravel",
   "authors": [
     {
       "name": "Sergi Tur Badenas",
